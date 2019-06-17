@@ -1,0 +1,15 @@
+Respuestas
+
+- Actividad 2
+1) El argv contiene los argumentos que se han pasado desde el sistema operativo al invocar el programa. La declaración de los argumentos es: 
+La variable argc como mínimo valdrá 1, ya que el nombre del programa se toma como primer argumento, almacenado con argv[0], que es el primer elemento de la matriz. Cada elemento del array apunta a un argumento de la línea de ódenes. Todos los argumentos de la línea de ordenes son cadenas. 
+
+2) El programa recibe un archivo de texto y se encarga de contar el numero de cadenas de caracteres incluyendo el nombre del ejecutable y mostrando el orden en el cual se ejecuto el debug mode
+
+- Activad 3
+
+convierte el argumento str que es un String a un entero (type int).
+
+-La función itoa convierte enteros a cadenas de caracteres
+
+
