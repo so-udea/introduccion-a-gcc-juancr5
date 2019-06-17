@@ -8,8 +8,8 @@ La variable argc como mínimo valdrá 1, ya que el nombre del programa se toma c
 
 - Activad 3
 
-convierte el argumento str que es un String a un entero (type int).
-
--La función itoa convierte enteros a cadenas de caracteres
+- Convierte el argumento str que es un String a un entero (type int).
+- No encontramos ninguna funcion similar a atoi
+- La función itoa convierte enteros a cadenas de caracteres
 
 
